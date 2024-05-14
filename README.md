@@ -33,13 +33,13 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[ Alp' Snake](https://raw.githubusercontent.com/alpaslan-exe/alpaslan-exe/output/github-contribution-grid-snake-dark.svg
-)
+<!--   green snake -->
+![Alp's's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg))
 
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=alpaslan-exe&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaslan-exe&theme=radical&layout=compact) |
+| ![Alp's github stats](https://github-readme-stats.vercel.app/api?username=alpaslan-exe&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaslan-exe&theme=radical&layout=compact) |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpaslan-exe"></img>
