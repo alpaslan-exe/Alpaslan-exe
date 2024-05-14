@@ -50,16 +50,6 @@
 
 
 
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/alpaslan-exe/count.svg">  
-
-
 
 ### Profile Views
 counting of visitors to this page in this section started from May 14, 2024
