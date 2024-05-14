@@ -33,6 +33,8 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+https://github.com/alpaslan-exe/alpaslan-exe/blob/output/github-contribution-grid-snake.gif
+
 
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
