@@ -35,18 +35,13 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/Alpaslan-exe/BEPb/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=alpaslan-exe&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=alpaslan-exe&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaslan-exe&theme=radical&layout=compact) |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpaslan-exe"></img>
-
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/aslpaslan-exe/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -58,105 +53,19 @@
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
-
-
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpaslan-exe" alt="alpaslan-exe" /></a>
-</p>
-
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
 
 
 
 
-<!-- Belarus - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [41.8967],
-             [12.4822]
-         ]
-       ]
-     }
-   }
- ]
-}
 
-```
-
-
-![badges_37-46.png](src%2Fbadges_37-46.png)
-![badges_25-36.png](src%2Fbadges_25-36.png)
-![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)
 
 
 #### Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/alpaslan-exe/count.svg">  
-
-counting of visitors to this page in this section started from May 14, 2024
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
 
 
 
@@ -166,17 +75,19 @@ counting of visitors to this page in this section started from May 14, 2024
 ![](https://count.getloli.com/get/@Alpaslan-exe.github.readme)
 </br>
 
-[MIT](LICENSE)
 
 
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Thanks to BEPb for this template!
----
 
-[for the future hacker...](https://hackthebox.com)
 
 ![](assets/Bottom_down.svg)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpaslan-exe" alt="alpaslan-exe" /></a>
+</p>
+
+#### Thanks for visiting :heart:
+
+
+
