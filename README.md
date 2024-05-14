@@ -175,11 +175,8 @@ counting of visitors to this page in this section started from May 14, 2024
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
 Thanks to BEPb for this template!
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
 ---
 
-[for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
+[for the future hacker...](https://hackthebox.com)
 
 ![](assets/Bottom_down.svg)
