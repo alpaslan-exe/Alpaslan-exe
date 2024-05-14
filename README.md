@@ -1,7 +1,7 @@
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
-<p align="center">
+<p align="">
     <a href="https://github.com/Alpaslan-exe/"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/Alpaslan-exe/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
@@ -34,7 +34,16 @@
 <!--   GitHub stats graph -->
 ###  GitHub Activity Graph:
 <!--   green snake -->
-![Alp's's github activity graph](https://raw.githubusercontent.com/alpaslan-exe/alpaslan-exe/output/github-contribution-grid-snake.svg)
+<!-- GitHub stats graph -->
+
+<!-- GitHub stats graph -->
+<div style="text-align: center;">
+    <h3></h3>
+    <!-- green snake -->
+    <div style="display: inline-block; text-align: left;">
+        <img src="https://raw.githubusercontent.com/alpaslan-exe/alpaslan-exe/output/github-contribution-grid-snake.svg" alt="Alp's github activity graph">
+    </div>
+</div>
 
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
