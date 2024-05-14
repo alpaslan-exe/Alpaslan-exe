@@ -34,7 +34,7 @@
 <!--   GitHub stats graph -->
 ###  GitHub Activity Graph:
 <!--   green snake -->
-![Alp's's github activity graph](https://raw.githubusercontent.com/alpaslan-exe/alpaslan-exe/output/github-contribution-grid-snake.svg))
+![Alp's's github activity graph](https://raw.githubusercontent.com/alpaslan-exe/alpaslan-exe/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
@@ -47,7 +47,7 @@
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
+
 
 
 <!--   skyline 
